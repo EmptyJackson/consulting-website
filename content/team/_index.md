@@ -1,7 +1,9 @@
 ---
-title: "Team"
-date: 2018-02-13T12:21:57-05:00
-
+title: "Our team"
+type: "biography"
+# url: "/gallery"
+# maxWidth: "800x"
+# clickablePhotos: true
 ---
 
-Welcome to the blog section! This page uses the default `list.html` template. Write anything you like here. You can set this text with your `_index.md` in the `/content/posts/` folder.
+Our team are all doctoral students in Machine Learning at the University of Oxford, whose research spans a range of domains including **Computer Vision, Robotics, Natural Language Processing and Algorithmic Fairness**.
